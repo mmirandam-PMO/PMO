@@ -1,8 +1,0 @@
-{
-  "name": "tablero-portafolio-2027",
-  "version": "1.0.0",
-  "description": "Tablero ejecutivo del Portafolio de Proyectos 2027 (PowerPoint editable generado con pptxgenjs)",
-  "scripts": { "build": "node build.js" },
-  "dependencies": { "pptxgenjs": "^3.12.0" },
-  "license": "MIT"
-}
