@@ -1,0 +1,256 @@
+{
+    "Portafolio": "Portafolio de Proyectos 2027",
+    "Estadisticas": {
+        "Programas": 3,
+        "Proyectos": 38
+    },
+    "Pilares": [
+        {
+            "Nombre": "Banca Minorista",
+            "Total_Proyectos": 8,
+            "Categorias": [
+                {
+                    "Nombre": "Nuevos proyectos",
+                    "Total": 8,
+                    "Proyectos": [
+                        {
+                            "Proyecto": "App de Inversiones MVP 2",
+                            "Responsable": "S. Olivero"
+                        },
+                        {
+                            "Proyecto": "Rediseño Proceso de Originación MVP 2",
+                            "Responsable": "S. Olivero"
+                        },
+                        {
+                            "Proyecto": "Copiloto MVP 2",
+                            "Responsable": "S. Olivero"
+                        },
+                        {
+                            "Proyecto": "Seguros RANMA",
+                            "Responsable": "S. Olivero"
+                        },
+                        {
+                            "Proyecto": "Créditos Asociados a Nómina (CAN)",
+                            "Responsable": "S. Olivero"
+                        },
+                        {
+                            "Proyecto": "Cash Loans",
+                            "Responsable": "S. Olivero"
+                        },
+                        {
+                            "Proyecto": "Personalización de Ofertas",
+                            "Responsable": "S. Olivero"
+                        },
+                        {
+                            "Proyecto": "Cuenta Rocket",
+                            "Responsable": "S. Olivero"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Nombre": "Banca Mayorista",
+            "Total_Proyectos": null,
+            "Categorias": [
+                {
+                    "Nombre": "Banca de Empresas - Programa",
+                    "Detalle": "Plataforma Banca Empresarial Fase 1 (PyME, Empresa Mediana y Gpos Corporativos)",
+                    "Responsables": [
+                        "R. Galindo",
+                        "B. Flores"
+                    ],
+                    "Proyectos": [
+                        "Proyectos Crédito (TBD)",
+                        "Proyectos Captación (TBD)",
+                        "Proyectos Servicios (TBD)"
+                    ]
+                },
+                {
+                    "Nombre": "Banca de Gobierno - Programa",
+                    "Detalle": "Plataforma Banca Gobierno Fase 1 (TBD)",
+                    "Responsables": [
+                        "R. Vázquez"
+                    ],
+                    "Proyectos": [
+                        "Proyectos Crédito (TBD)",
+                        "Proyectos Captación (TBD)",
+                        "Proyectos Servicios (TBD)"
+                    ]
+                },
+                {
+                    "Nombre": "Transversales",
+                    "Total": 4,
+                    "Proyectos": [
+                        {
+                            "Proyecto": "Banca Electrónica y Móvil",
+                            "Responsable": "--"
+                        },
+                        {
+                            "Proyecto": "Hub de pagos",
+                            "Responsable": "--"
+                        },
+                        {
+                            "Proyecto": "Dispersión de Nóminas",
+                            "Responsable": "--"
+                        },
+                        {
+                            "Proyecto": "Banco Recaudador",
+                            "Responsable": "R. Vázquez"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Nombre": "Regulatorios",
+            "Total_Proyectos": 8,
+            "Categorias": [
+                {
+                    "Nombre": "Carryover 2026",
+                    "Total": 6,
+                    "Proyectos": [
+                        {
+                            "Proyecto": "PCI DSS",
+                            "Responsable": "C. Carreón"
+                        },
+                        {
+                            "Proyecto": "Controles de Integridad de Software Core Bancario",
+                            "Responsable": "C. Carreón"
+                        },
+                        {
+                            "Proyecto": "2FA en trx con TDD no presenciales",
+                            "Responsable": "C. Carreón"
+                        },
+                        {
+                            "Proyecto": "Robustecimiento de controles de seguridad",
+                            "Responsable": "C. Carreón"
+                        },
+                        {
+                            "Proyecto": "Formulario FATCA / CRS",
+                            "Responsable": "C. Budar"
+                        },
+                        {
+                            "Proyecto": "Identificador Cliente Derechos ARCO",
+                            "Responsable": "C. Carreón"
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Nuevos proyectos",
+                    "Total": 2,
+                    "Proyectos": [
+                        {
+                            "Proyecto": "Plataforma Reportes Regulatorios",
+                            "Responsable": "C. Budar"
+                        },
+                        {
+                            "Proyecto": "Nueva Plataforma PLD",
+                            "Responsable": "C. Carreón"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Nombre": "Hub de Innovación",
+            "Total_Proyectos": 5,
+            "Categorias": [
+                {
+                    "Nombre": "Autorizados",
+                    "Total": 5,
+                    "Proyectos": [
+                        {
+                            "Proyecto": "Comunidad Lazos",
+                            "Responsable": "--"
+                        },
+                        {
+                            "Proyecto": "MVNO",
+                            "Responsable": "--"
+                        },
+                        {
+                            "Proyecto": "Productos de crédito (3) ...",
+                            "Responsable": "--"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Nombre": "Carry-over 2026",
+            "Total_Proyectos": 13,
+            "Categorias": [
+                {
+                    "Nombre": "Enfoque al Cliente",
+                    "Total": 3,
+                    "Proyectos": [
+                        {
+                            "Proyecto": "Programa Lazos",
+                            "Responsable": "A. Nava"
+                        },
+                        {
+                            "Proyecto": "Reingeniería IVR",
+                            "Responsable": "A. Nava"
+                        },
+                        {
+                            "Proyecto": "Automatización de procesos ATC (3 sows)",
+                            "Responsable": "A. Nava"
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Operaciones",
+                    "Total": 4,
+                    "Proyectos": [
+                        {
+                            "Proyecto": "Migración Campo c63 al c57",
+                            "Responsable": "A. Nava"
+                        },
+                        {
+                            "Proyecto": "Automatización proceso trxs POS",
+                            "Responsable": "A. Nava"
+                        },
+                        {
+                            "Proyecto": "Implementación de TEF",
+                            "Responsable": "A. Nava"
+                        },
+                        {
+                            "Proyecto": "Tokenización",
+                            "Responsable": "A. Nava"
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Modernización Tecnológica",
+                    "Total": 6,
+                    "Proyectos": [
+                        {
+                            "Proyecto": "CRM Objetivo",
+                            "Responsable": "M. Matus"
+                        },
+                        {
+                            "Proyecto": "Content Manager Objetivo (Filenet)",
+                            "Responsable": "M. Matus"
+                        },
+                        {
+                            "Proyecto": "Upgrade S4 HANNA (ERP)",
+                            "Responsable": "C. Budar"
+                        },
+                        {
+                            "Proyecto": "Herramientas IA",
+                            "Responsable": "M. Matus"
+                        },
+                        {
+                            "Proyecto": "Implementación Middleware (Greenfield)",
+                            "Responsable": "M. Matus"
+                        },
+                        {
+                            "Proyecto": "Nuevo Core Bancario & Bca Empresarial",
+                            "Responsable": "M. Matus"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
