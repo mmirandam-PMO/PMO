@@ -1,0 +1,49 @@
+{
+  "titulo": "Portafolio de Proyectos 2027",
+  "subtitulo": "3 Programas  ·  38 Proyectos",
+  "minorista": {
+    "nombre": "Banca Minorista", "total": 8,
+    "linea1": "Todos asignados a S. Olivero", "linea2": "8 de 38 proyectos del portafolio (21%)",
+    "grupo": "Nuevos proyectos",
+    "izquierda": ["App de Inversiones MVP 2", "Rediseño Proceso de Originación MVP 2", "Copiloto MVP 2", "Seguros RANMA"],
+    "derecha": ["Créditos Asociados a Nómina (CAN)", "Cash Loans", "Personalización de Ofertas", "Cuenta Rocket"],
+    "responsable": "S. Olivero"
+  },
+  "mayorista": {
+    "nombre": "Banca Mayorista", "total": 4,
+    "linea1": "4 proyectos transversales · 3 sin responsable", "linea2": "2 programas en definición (Empresas y Gobierno)",
+    "programas": [
+      { "etiqueta": "Banca de Empresas  ·  Programa", "titulo": "Plataforma Banca Empresarial Fase 1",
+        "detalle": "(PyME, Empresa Mediana y Gpos Corporativos)", "responsables": ["R. Galindo", "B. Flores"] },
+      { "etiqueta": "Banca de Gobierno  ·  Programa", "titulo": "Plataforma Banca Gobierno Fase 1",
+        "detalle": "(TBD)", "responsables": ["R. Vázquez"] }
+    ],
+    "bullets": ["Proyectos Crédito   (TBD)", "Proyectos Captación   (TBD)", "Proyectos Servicios   (TBD)"],
+    "transversales": {
+      "izquierda": [["Banca Electrónica y Móvil", "–"], ["Hub de pagos", "–"]],
+      "derecha": [["Dispersión de Nóminas", "–"], ["Banco Recaudador", "R. Vázquez"]]
+    }
+  },
+  "regulatorios": {
+    "nombre": "Regulatorios", "total": 8,
+    "linea1": "C. Carreón (6) · C. Budar (2)", "linea2": "Carryover 2026: 6 · Nuevos proyectos: 2",
+    "grupos": [
+      ["Carryover 2026  ·  6", [["PCI DSS", "C. Carreón"], ["Controles de Integridad de Software Core Bancario", "C. Carreón"], ["2FA en trx con TDD no presenciales", "C. Carreón"], ["Robustecimiento de controles de seguridad", "C. Carreón"], ["Formulario FATCA / CRS", "C. Budar"], ["Identificador Cliente Derechos ARCO", "C. Carreón"]]],
+      ["Nuevos proyectos  ·  2", [["Plataforma Reportes Regulatorios", "C. Budar"], ["Nueva Plataforma PLD", "C. Carreón"]]]
+    ]
+  },
+  "hub": {
+    "nombre": "Hub de Innovación", "total": 5,
+    "linea1": "5 proyectos autorizados", "linea2": "Sin responsable asignado",
+    "grupos": [["Autorizados  ·  5", [["Comunidad Lazos", "–"], ["MVNO", "–"], ["Productos de crédito (3)", "–"]]]]
+  },
+  "carryover": {
+    "nombre": "Carry-over 2026", "total": 13,
+    "linea1": "3 frentes · 34% del portafolio", "linea2": "Cliente 3 · Oper. 4 · Moderniz. 6",
+    "grupos": [
+      ["Enfoque al Cliente  ·  3", [["Programa Lazos", "A. N"], ["Reingeniería IVR", "A. N"], ["Automatización de procesos ATC (3 sows)", "A. N"]]],
+      ["Operaciones  ·  4", [["Migración Campo c63 al c57", "A. N"], ["Automatización proceso trx POS", "A. N"], ["Implementación de TEF", "A. N"], ["Tokenización", "A. N"]]],
+      ["Modernización Tecnológica  ·  6", [["CRM Objetivo", "M. M"], ["Content Manager Objetivo (Filenet)", "M. M"], ["Upgrade S4 HANNA (E R P)", "C. Budar"], ["Herramientas IA", "M. M"], ["Implementación Middleware (Greenfield)", "M. M"], ["Nuevo Core Bancario & Bca Empresarial", "M. M"]]]
+    ]
+  }
+}
