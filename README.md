@@ -2,4 +2,4 @@
 
 ---
 
-![PMO](portafolio.svg)
+![PMO | Portafolio de Proyectos 2027](portafolio.svg)
