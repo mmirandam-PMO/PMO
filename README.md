@@ -3,4 +3,4 @@
 
 ---
 
-![PMO](portafolio.svg)
+![](portafolio.svg)
