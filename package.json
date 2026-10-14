@@ -1,0 +1,7 @@
+{
+  "name": "portafolio-pmo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Lector de portafolio de proyectos",
+  "main": "index.js"
+}
