@@ -1,0 +1,587 @@
+{
+ "titulo": "Portafolio de Proyectos 2027",
+ "subtitulo": "3 Programas  ·  38 Proyectos",
+ "minorista": {
+  "nombre": "Banca Minorista",
+  "total": 8,
+  "linea1": "Todos asignados a S. Olivero",
+  "linea2": "8 de 38 proyectos del portafolio (21%)",
+  "grupo": "Nuevos proyectos",
+  "izquierda": [
+   "App de Inversiones MVP 2",
+   "Rediseño Proceso de Originación MVP 2",
+   "Copiloto MVP 2",
+   "Seguros RANMA"
+  ],
+  "derecha": [
+   "Créditos Asociados a Nómina (CAN)",
+   "Cash Loans",
+   "Personalización de Ofertas",
+   "Cuenta Rocket"
+  ],
+  "responsable": "S. Olivero"
+ },
+ "mayorista": {
+  "nombre": "Banca Mayorista",
+  "total": 4,
+  "linea1": "4 proyectos transversales · 3 sin responsable",
+  "linea2": "2 programas en definición (Empresas y Gobierno)",
+  "programas": [
+   {
+    "etiqueta": "Banca de Empresas  ·  Programa",
+    "titulo": "Plataforma Banca Empresarial Fase 1",
+    "detalle": "(PyME, Empresa Mediana y Gpos Corporativos)",
+    "responsables": [
+     "R. Galindo",
+     "B. Flores"
+    ]
+   },
+   {
+    "etiqueta": "Banca de Gobierno  ·  Programa",
+    "titulo": "Plataforma Banca Gobierno Fase 1",
+    "detalle": "(TBD)",
+    "responsables": [
+     "R. Vázquez"
+    ]
+   }
+  ],
+  "bullets": [
+   "Proyectos Crédito   (TBD)",
+   "Proyectos Captación   (TBD)",
+   "Proyectos Servicios   (TBD)"
+  ],
+  "transversales": {
+   "izquierda": [
+    [
+     "Banca Electrónica y Móvil",
+     "–"
+    ],
+    [
+     "Hub de pagos",
+     "–"
+    ]
+   ],
+   "derecha": [
+    [
+     "Dispersión de Nóminas",
+     "–"
+    ],
+    [
+     "Banco Recaudador",
+     "R. Vázquez"
+    ]
+   ]
+  }
+ },
+ "regulatorios": {
+  "nombre": "Regulatorios",
+  "total": 8,
+  "linea1": "C. Carreón (6) · C. Budar (2)",
+  "linea2": "Carryover 2026: 6 · Nuevos proyectos: 2",
+  "grupos": [
+   [
+    "Carryover 2026  ·  6",
+    [
+     [
+      "PCI DSS",
+      "C. Carreón"
+     ],
+     [
+      "Controles de Integridad de Software Core Bancario",
+      "C. Carreón"
+     ],
+     [
+      "2FA en trx con TDD no presenciales",
+      "C. Carreón"
+     ],
+     [
+      "Robustecimiento de controles de seguridad",
+      "C. Carreón"
+     ],
+     [
+      "Formulario FATCA / CRS",
+      "C. Budar"
+     ],
+     [
+      "Identificador Cliente Derechos ARCO",
+      "C. Carreón"
+     ]
+    ]
+   ],
+   [
+    "Nuevos proyectos  ·  2",
+    [
+     [
+      "Plataforma Reportes Regulatorios",
+      "C. Budar"
+     ],
+     [
+      "Nueva Plataforma PLD",
+      "C. Carreón"
+     ]
+    ]
+   ]
+  ]
+ },
+ "hub": {
+  "nombre": "Hub de Innovación",
+  "total": 5,
+  "linea1": "5 proyectos autorizados",
+  "linea2": "Sin responsable asignado",
+  "grupos": [
+   [
+    "Autorizados  ·  5",
+    [
+     [
+      "Comunidad Lazos",
+      "–"
+     ],
+     [
+      "MVNO",
+      "–"
+     ],
+     [
+      "Productos de crédito (3)",
+      "–"
+     ]
+    ]
+   ]
+  ]
+ },
+ "carryover": {
+  "nombre": "Carry-over 2026",
+  "total": 13,
+  "linea1": "3 frentes · 34% del portafolio",
+  "linea2": "Cliente 3 · Oper. 4 · Moderniz. 6",
+  "grupos": [
+   [
+    "Enfoque al Cliente  ·  3",
+    [
+     [
+      "Programa Lazos",
+      "A. N"
+     ],
+     [
+      "Reingeniería IVR",
+      "A. N"
+     ],
+     [
+      "Automatización de procesos ATC (3 sows)",
+      "A. N"
+     ]
+    ]
+   ],
+   [
+    "Operaciones  ·  4",
+    [
+     [
+      "Migración Campo c63 al c57",
+      "A. N"
+     ],
+     [
+      "Automatización proceso trx POS",
+      "A. N"
+     ],
+     [
+      "Implementación de TEF",
+      "A. N"
+     ],
+     [
+      "Tokenización",
+      "A. N"
+     ]
+    ]
+   ],
+   [
+    "Modernización Tecnológica  ·  6",
+    [
+     [
+      "CRM Objetivo",
+      "M. M"
+     ],
+     [
+      "Content Manager Objetivo (Filenet)",
+      "M. M"
+     ],
+     [
+      "Upgrade S4 HANNA (E R P)",
+      "C. Budar"
+     ],
+     [
+      "Herramientas IA",
+      "M. M"
+     ],
+     [
+      "Implementación Middleware (Greenfield)",
+      "M. M"
+     ],
+     [
+      "Nuevo Core Bancario & Bca Empresarial",
+      "M. M"
+     ]
+    ]
+   ]
+  ]
+ },
+ "clasificaciones": [
+  {
+   "nombre": "Banca Minorista",
+   "color": "SKY",
+   "filas": [
+    [
+     "App de Inversiones MVP 2",
+     "Nuevos proyectos",
+     "S. Olivero",
+     0,
+     2,
+     7
+    ],
+    [
+     "Rediseño Proceso de Originación MVP 2",
+     "Nuevos proyectos",
+     "S. Olivero",
+     0,
+     3,
+     9
+    ],
+    [
+     "Copiloto MVP 2",
+     "Nuevos proyectos",
+     "S. Olivero",
+     0,
+     2,
+     6
+    ],
+    [
+     "Seguros RANMA",
+     "Nuevos proyectos",
+     "S. Olivero",
+     1,
+     4,
+     9
+    ],
+    [
+     "Créditos Asociados a Nómina (CAN)",
+     "Nuevos proyectos",
+     "S. Olivero",
+     0,
+     2,
+     5
+    ],
+    [
+     "Cash Loans",
+     "Nuevos proyectos",
+     "S. Olivero",
+     1,
+     3,
+     8
+    ],
+    [
+     "Personalización de Ofertas",
+     "Nuevos proyectos",
+     "S. Olivero",
+     2,
+     5,
+     10
+    ],
+    [
+     "Cuenta Rocket",
+     "Nuevos proyectos",
+     "S. Olivero",
+     2,
+     4,
+     8
+    ]
+   ]
+  },
+  {
+   "nombre": "Banca Mayorista",
+   "color": "ORANGE",
+   "filas": [
+    [
+     "Plataforma Banca Empresarial Fase 1",
+     "Programa Empresas",
+     "R. Galindo / B. Flores",
+     0,
+     4,
+     11,
+     0
+    ],
+    [
+     "Plataforma Banca Gobierno Fase 1",
+     "Programa Gobierno",
+     "R. Vázquez",
+     0,
+     5,
+     11,
+     0
+    ],
+    [
+     "Banca Electrónica y Móvil",
+     "Transversales",
+     "Por asignar",
+     1,
+     3,
+     8
+    ],
+    [
+     "Hub de pagos",
+     "Transversales",
+     "Por asignar",
+     2,
+     4,
+     9
+    ],
+    [
+     "Dispersión de Nóminas",
+     "Transversales",
+     "Por asignar",
+     1,
+     3,
+     7
+    ],
+    [
+     "Banco Recaudador",
+     "Transversales",
+     "R. Vázquez",
+     0,
+     2,
+     6
+    ]
+   ]
+  },
+  {
+   "nombre": "Regulatorios",
+   "color": "RED",
+   "filas": [
+    [
+     "PCI DSS",
+     "Carryover 2026",
+     "C. Carreón",
+     0,
+     0,
+     5
+    ],
+    [
+     "Controles de Integridad de Software Core Bancario",
+     "Carryover 2026",
+     "C. Carreón",
+     0,
+     0,
+     7
+    ],
+    [
+     "2FA en trx con TDD no presenciales",
+     "Carryover 2026",
+     "C. Carreón",
+     0,
+     1,
+     6
+    ],
+    [
+     "Robustecimiento de controles de seguridad",
+     "Carryover 2026",
+     "C. Carreón",
+     0,
+     0,
+     8
+    ],
+    [
+     "Formulario FATCA / CRS",
+     "Carryover 2026",
+     "C. Budar",
+     0,
+     0,
+     4
+    ],
+    [
+     "Identificador Cliente Derechos ARCO",
+     "Carryover 2026",
+     "C. Carreón",
+     0,
+     0,
+     6
+    ],
+    [
+     "Plataforma Reportes Regulatorios",
+     "Nuevos proyectos",
+     "C. Budar",
+     1,
+     3,
+     9
+    ],
+    [
+     "Nueva Plataforma PLD",
+     "Nuevos proyectos",
+     "C. Carreón",
+     1,
+     3,
+     10
+    ]
+   ]
+  },
+  {
+   "nombre": "Hub de Innovación",
+   "color": "GREY",
+   "filas": [
+    [
+     "Comunidad Lazos",
+     "Autorizados",
+     "Por asignar",
+     0,
+     2,
+     8
+    ],
+    [
+     "MVNO",
+     "Autorizados",
+     "Por asignar",
+     1,
+     3,
+     9
+    ],
+    [
+     "Productos de crédito (3)",
+     "Autorizados",
+     "Por asignar",
+     2,
+     4,
+     10
+    ],
+    [
+     "Por definir (2 proyectos)",
+     "Autorizados",
+     "Por asignar",
+     3,
+     6,
+     5,
+     2
+    ]
+   ]
+  },
+  {
+   "nombre": "Carry-over 2026",
+   "color": "NAVY",
+   "filas": [
+    [
+     "Programa Lazos",
+     "Enfoque al Cliente",
+     "A. N",
+     0,
+     0,
+     8
+    ],
+    [
+     "Reingeniería IVR",
+     "Enfoque al Cliente",
+     "A. N",
+     0,
+     0,
+     5
+    ],
+    [
+     "Automatización de procesos ATC (3 sows)",
+     "Enfoque al Cliente",
+     "A. N",
+     0,
+     0,
+     6
+    ],
+    [
+     "Migración Campo c63 al c57",
+     "Operaciones",
+     "A. N",
+     0,
+     0,
+     4
+    ],
+    [
+     "Automatización proceso trx POS",
+     "Operaciones",
+     "A. N",
+     0,
+     0,
+     6
+    ],
+    [
+     "Implementación de TEF",
+     "Operaciones",
+     "A. N",
+     0,
+     0,
+     8
+    ],
+    [
+     "Tokenización",
+     "Operaciones",
+     "A. N",
+     0,
+     0,
+     7
+    ],
+    [
+     "CRM Objetivo",
+     "Modernización Tecnológica",
+     "M. M",
+     0,
+     0,
+     11
+    ],
+    [
+     "Content Manager Objetivo (Filenet)",
+     "Modernización Tecnológica",
+     "M. M",
+     0,
+     0,
+     10
+    ],
+    [
+     "Upgrade S4 HANNA (E R P)",
+     "Modernización Tecnológica",
+     "C. Budar",
+     0,
+     0,
+     11
+    ],
+    [
+     "Herramientas IA",
+     "Modernización Tecnológica",
+     "M. M",
+     0,
+     0,
+     9
+    ],
+    [
+     "Implementación Middleware (Greenfield)",
+     "Modernización Tecnológica",
+     "M. M",
+     0,
+     1,
+     11
+    ],
+    [
+     "Nuevo Core Bancario & Bca Empresarial",
+     "Modernización Tecnológica",
+     "M. M",
+     0,
+     2,
+     11
+    ]
+   ]
+  }
+ ],
+ "meses": [
+  "Ene",
+  "Feb",
+  "Mar",
+  "Abr",
+  "May",
+  "Jun",
+  "Jul",
+  "Ago",
+  "Sep",
+  "Oct",
+  "Nov",
+  "Dic"
+ ]
+}
