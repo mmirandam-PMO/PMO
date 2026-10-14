@@ -1,8 +1,0 @@
-{
-  "name": "portafolio-proyectos-2027",
-  "version": "1.0.0",
-  "description": "Portafolio de Proyectos 2027: tablero, presupuesto y timeline (PowerPoint editable generado con pptxgenjs)",
-  "scripts": { "build": "node build.js" },
-  "dependencies": { "pptxgenjs": "^3.12.0" },
-  "license": "MIT"
-}
