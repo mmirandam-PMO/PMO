@@ -1,5 +1,5 @@
 # Portafolio de Proyectos 2027
-> **Reporte Ejecutivo de PMO** &nbsp;&bull;&nbsp; 💼 3 Programas &nbsp;&bull;&nbsp; ⚙️ 38 Proyectos
+> **** &nbsp;&bull;&nbsp; 💼 3 Programas &nbsp;&bull;&nbsp; ⚙️ 38 Proyectos
 
 ---
 
