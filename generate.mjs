@@ -53,11 +53,12 @@ function row(x, y, name, owner, ownerColor) {
   return { svg: s, h };
 }
 
-//function header(x, y, title, count, bg, fg = '#FFFFFF') {
-  //return `<rect x="${x}" y="${y}" width="${COL}" height="46" rx="7" fill="${bg}"/>` +
-   // `<text x="${x + 16}" y="${y + 30}" font-size="19" font-weight="700" fill="${fg}">${esc(title)}</text>` +
-    //`<text x="${x + COL - 16}" y="${y + 30}" font-size="19" font-weight="700" text-anchor="end" fill="${fg}">${count}</text>`;
-//}
+function header(x, y, title, count, bg, fg = '#FFFFFF') {
+  return `<rect x="${x}" y="${y}" width="${COL}" height="46" rx="7" fill="${bg}"/>` +
+    //`<text x="${x + 16}" y="${y + 30}" font-size="19" font-weight="700" fill="${fg}">${esc(title)}</text>` +
+    `<text x="${x + 16}" y="${y + 30}" font-size="19" font-weight="700" fill="${fg}"></text>` +
+    `<text x="${x + COL - 16}" y="${y + 30}" font-size="19" font-weight="700" text-anchor="end" fill="${fg}">${count}</text>`;
+}
 
 function section(x, y, label, count, rows, ownerColor, rightText) {
   let s = `<text x="${x}" y="${y + 17}" font-size="17" font-weight="700" fill="#24292F">${esc(label)}` +
