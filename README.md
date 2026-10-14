@@ -2,4 +2,4 @@
 
 ---
 
-![PortafolioProyectos2027](portafolio.svg)
+![Portafolio](portafolio.svg)
