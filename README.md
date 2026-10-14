@@ -1,5 +1,5 @@
 ## Portafolio de Proyectos 2027
-&nbsp;•&nbsp; 💼 3 Programas &nbsp;•&nbsp; ⚙️ 38 Proyectos
+&nbsp;&nbsp; 💼 3 Programas &nbsp;•&nbsp; ⚙️ 38 Proyectos
 
 ---
 
